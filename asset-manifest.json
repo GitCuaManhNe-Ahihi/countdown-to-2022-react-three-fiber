@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/countdown-to-2022-react-three-fiber/static/css/main.0d9d3608.chunk.css",
-    "main.js": "/countdown-to-2022-react-three-fiber/static/js/main.6917e81c.chunk.js",
-    "main.js.map": "/countdown-to-2022-react-three-fiber/static/js/main.6917e81c.chunk.js.map",
+    "main.js": "/countdown-to-2022-react-three-fiber/static/js/main.8c0f5516.chunk.js",
+    "main.js.map": "/countdown-to-2022-react-three-fiber/static/js/main.8c0f5516.chunk.js.map",
     "runtime-main.js": "/countdown-to-2022-react-three-fiber/static/js/runtime-main.6683f505.js",
     "runtime-main.js.map": "/countdown-to-2022-react-three-fiber/static/js/runtime-main.6683f505.js.map",
-    "static/js/2.479afc6b.chunk.js": "/countdown-to-2022-react-three-fiber/static/js/2.479afc6b.chunk.js",
-    "static/js/2.479afc6b.chunk.js.map": "/countdown-to-2022-react-three-fiber/static/js/2.479afc6b.chunk.js.map",
+    "static/js/2.1395a650.chunk.js": "/countdown-to-2022-react-three-fiber/static/js/2.1395a650.chunk.js",
+    "static/js/2.1395a650.chunk.js.map": "/countdown-to-2022-react-three-fiber/static/js/2.1395a650.chunk.js.map",
     "static/js/3.8e5c1765.chunk.js": "/countdown-to-2022-react-three-fiber/static/js/3.8e5c1765.chunk.js",
     "static/js/3.8e5c1765.chunk.js.map": "/countdown-to-2022-react-three-fiber/static/js/3.8e5c1765.chunk.js.map",
     "index.html": "/countdown-to-2022-react-three-fiber/index.html",
     "static/css/main.0d9d3608.chunk.css.map": "/countdown-to-2022-react-three-fiber/static/css/main.0d9d3608.chunk.css.map",
-    "static/js/2.479afc6b.chunk.js.LICENSE.txt": "/countdown-to-2022-react-three-fiber/static/js/2.479afc6b.chunk.js.LICENSE.txt",
+    "static/js/2.1395a650.chunk.js.LICENSE.txt": "/countdown-to-2022-react-three-fiber/static/js/2.1395a650.chunk.js.LICENSE.txt",
     "static/media/8k_earth_clouds.08fcd800.jpg": "/countdown-to-2022-react-three-fiber/static/media/8k_earth_clouds.08fcd800.jpg",
     "static/media/8k_earth_daymap.54672c1f.jpg": "/countdown-to-2022-react-three-fiber/static/media/8k_earth_daymap.54672c1f.jpg",
     "static/media/8k_earth_nightmap.c0e138e9.jpg": "/countdown-to-2022-react-three-fiber/static/media/8k_earth_nightmap.c0e138e9.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6683f505.js",
-    "static/js/2.479afc6b.chunk.js",
+    "static/js/2.1395a650.chunk.js",
     "static/css/main.0d9d3608.chunk.css",
-    "static/js/main.6917e81c.chunk.js"
+    "static/js/main.8c0f5516.chunk.js"
   ]
 }
