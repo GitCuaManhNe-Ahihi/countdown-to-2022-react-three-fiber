@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/countdown-to-2022-react-three-fiber.git/static/css/main.0d9d3608.chunk.css",
+    "main.js": "/countdown-to-2022-react-three-fiber.git/static/js/main.e7507435.chunk.js",
+    "main.js.map": "/countdown-to-2022-react-three-fiber.git/static/js/main.e7507435.chunk.js.map",
+    "runtime-main.js": "/countdown-to-2022-react-three-fiber.git/static/js/runtime-main.c536b5e9.js",
+    "runtime-main.js.map": "/countdown-to-2022-react-three-fiber.git/static/js/runtime-main.c536b5e9.js.map",
+    "static/js/2.e3b46aaa.chunk.js": "/countdown-to-2022-react-three-fiber.git/static/js/2.e3b46aaa.chunk.js",
+    "static/js/2.e3b46aaa.chunk.js.map": "/countdown-to-2022-react-three-fiber.git/static/js/2.e3b46aaa.chunk.js.map",
+    "static/js/3.8b05805f.chunk.js": "/countdown-to-2022-react-three-fiber.git/static/js/3.8b05805f.chunk.js",
+    "static/js/3.8b05805f.chunk.js.map": "/countdown-to-2022-react-three-fiber.git/static/js/3.8b05805f.chunk.js.map",
+    "index.html": "/countdown-to-2022-react-three-fiber.git/index.html",
+    "static/css/main.0d9d3608.chunk.css.map": "/countdown-to-2022-react-three-fiber.git/static/css/main.0d9d3608.chunk.css.map",
+    "static/js/2.e3b46aaa.chunk.js.LICENSE.txt": "/countdown-to-2022-react-three-fiber.git/static/js/2.e3b46aaa.chunk.js.LICENSE.txt",
+    "static/media/8k_earth_clouds.08fcd800.jpg": "/countdown-to-2022-react-three-fiber.git/static/media/8k_earth_clouds.08fcd800.jpg",
+    "static/media/8k_earth_daymap.54672c1f.jpg": "/countdown-to-2022-react-three-fiber.git/static/media/8k_earth_daymap.54672c1f.jpg",
+    "static/media/8k_earth_nightmap.c0e138e9.jpg": "/countdown-to-2022-react-three-fiber.git/static/media/8k_earth_nightmap.c0e138e9.jpg",
+    "static/media/8k_earth_normal_map.930cf2e9.jpg": "/countdown-to-2022-react-three-fiber.git/static/media/8k_earth_normal_map.930cf2e9.jpg",
+    "static/media/8k_earth_specular_map.7b4efa59.jpg": "/countdown-to-2022-react-three-fiber.git/static/media/8k_earth_specular_map.7b4efa59.jpg",
+    "static/media/8k_mercury.b3bc4c35.jpg": "/countdown-to-2022-react-three-fiber.git/static/media/8k_mercury.b3bc4c35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c536b5e9.js",
+    "static/js/2.e3b46aaa.chunk.js",
+    "static/css/main.0d9d3608.chunk.css",
+    "static/js/main.e7507435.chunk.js"
+  ]
+}
