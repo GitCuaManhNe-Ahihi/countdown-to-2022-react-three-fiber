@@ -98,7 +98,7 @@ const App  = styled.div`
  const H1  =styled.h1`
   position: absolute;
   font-weight: bold;
-  font-size:  ${props => props.screen > 768?100:40}px;;
+  font-size:  ${props => props.screenh1> 768?100:40}px;;
 
   text-align: center;
   top: 10%;
